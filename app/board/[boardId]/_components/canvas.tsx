@@ -53,7 +53,7 @@ import { useQuery } from "convex/react";
 import { api } from "@/convex/_generated/api";
 import { Id } from "@/convex/_generated/dataModel";
 
-const MAX_LAYERS = 100;
+const MAX_LAYERS = 950;
 const SELECTION_NET_THRESHOLD = 5;
 const MOVE_OFFSET = 5;
 
