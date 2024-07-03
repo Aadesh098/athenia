@@ -10,6 +10,8 @@ Test Credentials - Username : aadesh_001 , Password - testuser@123321
 
 ![image](https://github.com/Aadesh098/athenia/assets/48157409/ec6562c7-7e7b-4bc9-acfe-927900d2692d)
 
+![image](https://github.com/Aadesh098/athenia/assets/48157409/cc5ed327-702f-498c-b8c2-5b664e9ecd57)
+
 ![image](https://github.com/Aadesh098/athenia/assets/48157409/b9b130b4-c866-44d0-8ee0-09b420078454)
 
 ![image](https://github.com/Aadesh098/athenia/assets/48157409/923396b3-b18e-4ded-a380-0e68738b32fb)
